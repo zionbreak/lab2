@@ -1,0 +1,43 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 356 ciObject found
+instanceKlass org/gradle/workers/internal/WorkerDaemonClientsManager$1
+instanceKlass org/gradle/workers/internal/WorkerDaemonExpiration$SimpleMemoryExpirationSelector
+instanceKlass org/gradle/execution/taskgraph/DefaultTaskExecutionGraph$1
+instanceKlass org/gradle/execution/taskgraph/DefaultTaskPlanExecutor$1
+instanceKlass com/squareup/javawriter/JavaWriter
+instanceKlass com/google/common/io/Closer$SuppressingSuppressor
+instanceKlass com/google/common/io/Closer$Suppressor
+instanceKlass com/google/common/io/Closer
+instanceKlass com/android/builder/internal/ClassFieldImpl
+instanceKlass com/android/builder/compiling/BuildConfigGenerator
+instanceKlass org/gradle/internal/fingerprint/impl/IgnoredPathFingerprintingStrategy$1
+instanceKlass com/android/builder/internal/compiler/RenderScriptProcessor$$Lambda$310
+instanceKlass com/android/builder/internal/compiler/RenderScriptProcessor$Abi
+instanceKlass com/android/builder/internal/compiler/RenderScriptProcessor
+instanceKlass com/android/ide/common/process/ProcessOutput
+instanceKlass com/android/ide/common/process/BaseProcessOutputHandler
+instanceKlass com/android/build/gradle/tasks/RenderscriptCompile$$Lambda$309
+instanceKlass com/android/builder/internal/compiler/DirectoryWalker$Builder$$Lambda$308
+instanceKlass com/android/builder/internal/compiler/DirectoryWalker$ExtensionSelector
+instanceKlass com/android/builder/internal/compiler/DirectoryWalker$Builder
+instanceKlass com/android/builder/internal/compiler/DirectoryWalker
+instanceKlass org/gradle/internal/fingerprint/impl/RelativePathFingerprintingStrategy$1
+instanceKlass org/gradle/api/internal/tasks/execution/statistics/TaskExecutionStatisticsEventAdapter$1
+instanceKlass org/gradle/api/internal/changedetection/state/ListValueSnapshot
+instanceKlass org/gradle/api/internal/changedetection/state/NullValueSnapshot
+instanceKlass org/gradle/internal/fingerprint/impl/SnapshotMapSerializer$1
+instanceKlass com/google/common/collect/Maps$10
+instanceKlass com/google/common/collect/Maps$6
+instanceKlass org/gradle/api/internal/tasks/OriginTaskExecutionMetadata
+instanceKlass com/android/build/gradle/internal/tasks/AppPreBuildTask$$Lambda$307
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass com/android/build/gradle/internal/tasks/AppPreBuildTask$$Lambda$306
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass org/gradle/api/internal/tasks/execution/ExecuteActionsTaskExecuter$1
+instanceKlass org/gradle/internal/logging/compatbridge/LoggingManagerInternalCompatibilityBridge
+instanceKlass org/gradle/api/internal/tasks/execution/OutputDirectoryCreatingTaskExecuter$1
+instanceKlass org/gradle/api/internal/changedetection/rules/MaximumNumberTaskStateChangeVisitor
+instanceKlass org/gradle/api/internal/changedetection/rules/DescriptiveChange
+instanceKlass org/gradle/api/internal/changedetection/rules/NoHistoryTaskUpToDateState

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Zaets42IPZLab02</string>
+    <string name="hint">Enter the message here</string>
+    <string name="text">SEND</string>
+    <string name="text2">SEND TO</string>
+</resources>
